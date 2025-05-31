@@ -18,3 +18,7 @@ Example Workflow-
 2. Input: BH1750 reads dim lighting (80 lux), DHT22 reads 21°C temperature
 3. Output: System increases LED brightness and changes temperature
 4. Display: “Light Increased, temperature changed”
+
+
+Dataset link:- 
+https://www.kaggle.com/msambare/fer2013
